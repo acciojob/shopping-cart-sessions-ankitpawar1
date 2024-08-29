@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+#product-list,
+#cart-list {
+  list-style-type: none;
+}
+
+#product-list li,
+#cart-list li {
+  padding: 5px;
+  margin-bottom: 5px;
+}
+
+button {
+  margin-left: 10px;
+}
